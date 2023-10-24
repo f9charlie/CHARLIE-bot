@@ -7,12 +7,10 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919654970780', 'KING B2K ✓', true],
-  [''], 
-  [''] 
+  ['919654970780', 'KING B2K ✓', true]
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "919654970780" //put your bot number here
 
 global.mods = ['919654970780'] 
 global.prems = ['919654970780']
@@ -57,7 +55,7 @@ global.author = '@danielrajput000'
 global.menuvid = 'Off'
 global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/danielrajput000?igshid=OGQ5ZDc2ODk2ZA==\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
+global.fgsc = 'https://github.com/DanielRajput/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
